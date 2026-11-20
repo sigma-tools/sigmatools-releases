@@ -4,23 +4,23 @@
     "product": "sigmadesk",
     "os": "windows",
     "channel": "stable",
-    "seq": 46,
-    "version": "0.3.18",
-    "commit": "d266296ab71b6dcd1c2e505d340ecc748afe8350",
-    "manifest_path": "packages/windows/0.3.18/manifest.json",
-    "manifest_sha256": "1a93cfdb38f364d4dd07711ae0d23e61de3e412e9d80ad0d0c4a634f9a962f17",
-    "manifest_size": 69432,
-    "package_sha256": "34e9358fca76cecc939420aa69b18126b2ba49714726a7eeae12d80d657c2687",
-    "bootstrap_path": "bootstrap/windows/0.3.18/sigmadesk.exe",
-    "bootstrap_sha256": "14e3a8ab5186e5422d0a2e5c25bec479704f02ce225ecdeb50d68a0d7366fb02",
-    "bootstrap_size": 23611392,
-    "created": 1795176075,
-    "expires": 1797768075
+    "seq": 47,
+    "version": "0.3.19",
+    "commit": "c77db0406fa78c8517b994707915f951930ed57a",
+    "manifest_path": "packages/windows/0.3.19/manifest.json",
+    "manifest_sha256": "7234371f3bd888ae2be7bddc56702d386f57e58c4ca67aa2c439e9cf7dafe819",
+    "manifest_size": 73732,
+    "package_sha256": "4fe55c79eb0cf0b8d9b15b87561d002740806cff9e6db078333ce14881fec43b",
+    "bootstrap_path": "bootstrap/windows/0.3.19/sigmadesk.exe",
+    "bootstrap_sha256": "976ef566b38f06d54675423253411c39bed4dd8b0268e5e4784ff692226e31e2",
+    "bootstrap_size": 23630336,
+    "created": 1795186694,
+    "expires": 1797778694
   },
   "signatures": [
     {
       "keyid": "60c49fecf08f6d85",
-      "sig": "370fcfaa873c944a89e7c79fb07fcf779024abb94afca4015b64d2d7b3a56bafe29a0cd7730f3b59e626183e6f2e6a31e63625ca04d3c8d187e742afd9b04204"
+      "sig": "35b77fb7cf7c344131dd30c66237862ec670c0a0eda4288cda8e780e3bee50c5ee0ceab434e980fa475c307b76743ad7c7fdc1d8cdd64a85821bde42c2a61508"
     }
   ]
 }
